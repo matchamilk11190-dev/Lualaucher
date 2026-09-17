@@ -1,2 +1,0 @@
-# Lualaucher
-Wed-script
